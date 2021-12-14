@@ -1,0 +1,12 @@
+.project
+.pydevproject
+MANIFEST.in
+setup.cfg
+setup.py
+.settings/org.eclipse.core.resources.prefs
+src/sslmiddleware.py
+src/django_sslmiddleware.egg-info/PKG-INFO
+src/django_sslmiddleware.egg-info/SOURCES.txt
+src/django_sslmiddleware.egg-info/dependency_links.txt
+src/django_sslmiddleware.egg-info/not-zip-safe
+src/django_sslmiddleware.egg-info/top_level.txt
