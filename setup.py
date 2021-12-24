@@ -12,7 +12,7 @@ from distutils.core import setup
 import setuptools
 
 setup(
-    name='django-sslmiddleware',
+    name='djangoplicity-sslmiddleware',
     version='1.7',
     description="",
     license='Python',
@@ -21,4 +21,5 @@ setup(
     package_dir = { '': 'src' },
     include_package_data = True,
     zip_safe = False,
+download_url = 'https://github.com/djangoplicity/djangoplicity-sslmiddleware/archive/refs/tags/1.7.tar.gz'
 )
